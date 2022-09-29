@@ -2,11 +2,11 @@
 
 ## How contains this repo
 
-# More Python Tips, Tricks and Techniques for Data Science.
+### More Python Tips, Tricks and Techniques for Data Science.
 
 ## Introduction to Jupyter
 
-# The Jupyter notebook is a web-based notebook environment for interactive computing.
+### The Jupyter notebook is a web-based notebook environment for interactive computing.
 
 
 ## How to install Jupyter
