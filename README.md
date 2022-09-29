@@ -17,3 +17,12 @@
 
 
 ## Linkedin Learning Platform Course
+
+
+## Useful links
+
+1. https://jupyter.org/install
+
+2. https://github.com/jupyter/notebook
+
+3. https://youtu.be/HW29067qVWk
