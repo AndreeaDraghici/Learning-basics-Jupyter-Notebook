@@ -17,6 +17,12 @@
 
 
 ## Linkedin Learning Platform Course
+# Contents
+
+1. IPython and Jupyter Notebook
+2. NumPy and Pandas
+3. Vizualization with Matplotlib
+4. Machine Learning Tips
 
 
 ## Useful links
